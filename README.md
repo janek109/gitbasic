@@ -9,7 +9,7 @@ Aby pobrać ten projekt za pomocą gitbash lub terminala użyj
 
 ## bash
 
-Aby, poznać pomoc dla dowolnego polecenia użyj --help tj. ls --help
+Aby, poznać pomoc dla dowolnego polecenia użyj `--help` tj. `ls --help`
 
 ### pwd
 Aby, sprawdzić ścieżkę gdzie jesteś użyj `pwd`
