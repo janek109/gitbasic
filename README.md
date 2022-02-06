@@ -1,7 +1,7 @@
 ## HOWTO
 
 Aby pobrać ten projekt użyj
-`git clone --recurse-submodules git@github.com:janek109/gitbasic.git`
+`git clone --recurse-submodules https://github.com/janek109/gitbasic.git`
 
 - [] niezrobione ćwiczenie
 - [x] zrobione ćwiczenie można zaznaczyć `x` w []
