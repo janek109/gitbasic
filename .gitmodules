@@ -1,0 +1,24 @@
+[submodule "gitbasic_bash"]
+	path = gitbasic_bash
+	url = git@github.com:janek109/gitbasic_bash.git
+[submodule "gitbasic_basic"]
+	path = gitbasic_basic
+	url = git@github.com:janek109/gitbasic_basic.git
+[submodule "gitbasic_log"]
+	path = gitbasic_log
+	url = git@github.com:janek109/gitbasic_log.git
+[submodule "gitbasic_merge"]
+	path = gitbasic_merge
+	url = git@github.com:janek109/gitbasic_merge.git
+[submodule "gitbasic_merge_conflicts"]
+	path = gitbasic_merge_conflicts
+	url = git@github.com:janek109/gitbasic_merge_conflicts.git
+[submodule "gitbasic_rebase"]
+	path = gitbasic_rebase
+	url = git@github.com:janek109/gitbasic_rebase.git
+[submodule "gitbasic_rebase_interactive"]
+	path = gitbasic_rebase_interactive
+	url = git@github.com:janek109/gitbasic_rebase_interactive.git
+[submodule "gitbasic_stash"]
+	path = gitbasic_stash
+	url = git@github.com:janek109/gitbasic_stash.git
