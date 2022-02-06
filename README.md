@@ -3,6 +3,9 @@
 Aby pobrać ten projekt użyj
 `git clone --recurse-submodules git@github.com:janek109/gitbasic.git`
 
+- [] nie zrobieone ćwiczenie
+- [x] zrobione ćwiczenie można zaznaczyć `x` w []
+
 ## bash
 
 Aby, poznać pomoc dla dowolnego polecenia użyj --help tj. ls --help
