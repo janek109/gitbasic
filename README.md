@@ -3,7 +3,7 @@
 Aby pobrać ten projekt użyj
 `git clone --recurse-submodules git@github.com:janek109/gitbasic.git`
 
-- [] nie zrobieone ćwiczenie
+- [] niezrobione ćwiczenie
 - [x] zrobione ćwiczenie można zaznaczyć `x` w []
 
 ## bash
