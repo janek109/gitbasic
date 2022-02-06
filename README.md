@@ -1,6 +1,7 @@
 ## HOWTO
 
 Aby pobrać ten projekt za pomocą gitbash lub terminala użyj
+`git clone git@github.com:janek109/gitbasic.git`
 `./pobiez.sh`
 
 - [] niezrobione ćwiczenie
