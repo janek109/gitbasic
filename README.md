@@ -241,11 +241,11 @@ pobierania istniejącego repozytorium
 - [] sprawdź historie commitów na branchu `master`
 
 ### z *
-- wykonaj polecenia związane z gitem w IDE, którego używasz np. PyCharm, IDEA, PhpStorm
-- sprawdź co to jest git flow
-- w folderze `gitbasic_basic` utwórz nowy pusty folder zakomituj go do repozytorium
-- dodaj folder .idea do ignorowanych globalnie dla całego gita
-- utwórz nowy folder i nowe repozytorium i przy tworzeniu ustal główny branch w repozytorium na `main`
+- [] wykonaj polecenia związane z gitem w IDE, którego używasz np. PyCharm, IDEA, PhpStorm
+- [] sprawdź co to jest git flow
+- [] w folderze `gitbasic_basic` utwórz nowy pusty folder zakomituj go do repozytorium
+- [] dodaj folder .idea do ignorowanych globalnie dla całego gita
+- [] utwórz nowy folder i nowe repozytorium i przy tworzeniu ustal główny branch w repozytorium na `main`
 
 ### feedback
 
