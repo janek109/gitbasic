@@ -1,7 +1,7 @@
 ## HOWTO
 
-Aby pobrać ten projekt użyj
-`git clone --recurse-submodules https://github.com/janek109/gitbasic.git`
+Aby pobrać ten projekt za pomocą gitbash lub terminala użyj
+`./pobiez.sh`
 
 - [] niezrobione ćwiczenie
 - [x] zrobione ćwiczenie można zaznaczyć `x` w []
