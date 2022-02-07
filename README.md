@@ -92,26 +92,26 @@ Użyj `ls` aby wylistować pliki foldery w folderze `gitbasic_bash`
 
 ### repozytorium lokalne
 
-git config local
+#### git config local
 - [] skonfiguruj Twój adres email dla repozytorium w folderze `gitbasic_basic`
 - [] skonfiguruj Twoje Imię i Nazwisko dla repozytorium w folderze `gitbasic_basic`
 - [] wylistuj konfigurację dla repozytorium w folderze `gitbasic_basic`
 
-git config global
+#### git config global
 - [] skonfiguruj Twój adres email globalne dla całego git w Twoim systemie
 - [] skonfiguruj Twoje Imię i Nazwisko globalne dla całego git w Twoim systemie
 - [] wylistuj konfigurację git-a w Twoim systemie
 
-git status
+#### git status
 - [] sprawdź stan repozytorium w folderze `gitbasic_basic`
 
-git add
+#### git add
 - [] utwórz plik o nazwie `nowy_plik.txt` w folderze `gitbasic_basic` 
 - [] sprawdź status repozytorium w folderze `gitbasic_basic`
 - [] dodaj plik `nowy_plik.txt` do staging area
 - [] sprawdź status repozytorium w folderze `gitbasic_basic`
 
-git commit
+#### git commit
 stany pliku, modified, staged, committed, untracked
 - [] zakomituj zmiany w repozytorium w folderze `gitbasic_basic`
 - [] sprawdź status repozytorium w folderze `gitbasic_basic`
@@ -122,14 +122,14 @@ stany pliku, modified, staged, committed, untracked
 - [] w folderze `nowa_funkcjonalnosc` utwórz now plik `plik_w_folderze.txt`
 - [] zakomituj plik `plik_w_folderze.txt` nie używając `-m` przy robieniu komita
 
-git reset
+#### git reset
 - [] w folderze `gitbasic_basic`
 - [] zmień plik `zwykly_plik.txt`, dodaj go do staging area i cofnij go z staging area
 - [] zmień plik `zwykly_plik.txt`, i cofnij zmiany, które na tym pliku zrobiłeś
 - [] usuń istniejący plik w repo `zwykly_plik.txt` i przywróć go do katalogu, w którym był
 - [] sprawdź status repozytorium w folderze `gitbasic_basic` - powinieneś mieć komunikat o tym, że nie ma zmian w repozytorium
 
-git ignore
+#### git ignore
 - [] utwórz plik `plik_ignorowany.txt`
 - [] sprawdź status repozytorium w folderze `gitbasic_basic`
 - [] dodaj do ignorowanych plików/folderów plik `plik_ignorowany.txt` w folderze `gitbasic_basic`
@@ -138,7 +138,7 @@ git ignore
 - [] dodaj folder `.idea` do ignorowanych plików/folderów w folderze `gitbasic_basic`
 - [] sprawdź status repozytorium w folderze `gitbasic_basic` - powinieneś mieć komunikat o tym, że nie ma zmian w repozytorium
 
-git branch
+#### git branch
 - [] utwórz nowy branch o nazwie `moj-pierwszy-branch` w folderze `gitbasic_basic`
 - [] przenieść się na nowo utworzony branch `moj-pierwszy-branch` w folderze `gitbasic_basic`
 - [] utwórz plik `plik_z_nowo_utworzonego_brancha.py` w folderze `gitbasic_basic`
@@ -146,7 +146,7 @@ git branch
 - [] sprawdź, czy plik `plik_z_nowo_utworzonego_brancha.txt` nadal jest w folderze `gitbasic_basic` jeśli go nie ma to dobrze
 - [] utwórz nowy branch o nazwie `moj-drugi-branch` i w jednym poleceniu się na niego przełącz
 
-git log
+#### git log
 - [] będąc na branchu `master`
 - [] wyświetl log z ostatnich zmian (commits) z repozytorium z folderu `gitbasic_log`
 - [] wyświetl log z ostatnich zmian (commits) z repozytorium z folderu `gitbasic_log` w jednej linijce
@@ -160,7 +160,7 @@ git log
 - [] zmień HEAD w folderze `gitbasic_log`, na commit o wartości sh1 `4c6accc47faa4f233ba08d0aecbec473c0134c75`
 - [] zmień HEAD w folderze `gitbasic_log`, w którym jest na gałęzi master (główna)
 
-git merge
+#### git merge
 - [] w folderze `gitbasic_merge` jest repozytorium wejdź do niego i sprawdź, jakie branche (gałęzie) są w nim
 - [] w folderze `gitbasic_merge` będąc na branchu `master` sprawdź listę plików
 - [] w folderze `gitbasic_merge` będąc na branchu `do_zmerdzowania` sprawdź listę plików
@@ -170,7 +170,7 @@ git merge
 - [] sprawdź, jakie branche (gałęzie) są w aktualnym repozytorium
 - [] wyświetl log w postaci grafu
 
-git merge z konfliktami
+#### git merge z konfliktami
 - [] w folderze `gitbasic_merge_conflicts`
 - [] utwórz plik `plik_z_konfliktem.txt` na branch-u `master` w którym wpisz `Istniejacy kod do ktorego bedziemy merdzowac zmiany`
 - [] zakomituj plik `plik_z_konfliktem.txt`
@@ -182,14 +182,14 @@ git merge z konfliktami
 - [] pamiętaj o zakomitownaiu zmian, aby zakończyć merdżowanie
 - [] sprawdź status repozytorium
 
-git rebase
+#### git rebase
 - [] w folderze `gitbasic_rebase` sprawdź jak wygląda graf commitów w repozytorium
 - [] zrób przeniesienie commitów z brancha `test` na branch `master`
 - [] rozwiąż konflikty w pliku `plikC.txt`
 - [] dokończ przeniesienie commitów z brancha `test` na master
 - [] zmerdżuj branch test do brancha master
 
-git rebase interaktywnie
+#### git rebase interaktywnie
 - [] w folderze `gitbasic_rebase_interactive`
 - [] sprawdź jak wygląda graf commitów w repozytorium
 - [] rozpocznij przeniesienie commitów z brancha `test` na branch master
@@ -201,7 +201,7 @@ git rebase interaktywnie
 - [] sprawdź jak wygląda graf commitów w repozytorium
 - [] usuń branch `test` z repozytorium
 
-git stash
+#### git stash
 - [] przejdź do folderu `gitbasic_stash`
 - [] sprawdź, jakie barnche są w folderze `gitbasic_stash`
 - [] przełącz się na branch `funkcjonalnosc_2`
@@ -222,7 +222,7 @@ git stash
 
 ### nowe repozytorium i serwer git
 
-nowe repozytorium
+#### nowe repozytorium
 - [] załóż konto na https://github.com/
 - [] będąc w katalogu `gitbasic` utwórz folder `folder_z_kodem`
 - [] w folderze `folder_z_kodem` utwórz nowe repozytorium
@@ -237,7 +237,7 @@ nowe repozytorium
 - [] sprawdź jakie zmiany zrobiłeś w ostatnim komicie na githubie
 - [] pobierz zmiany z remote-a (github) do swojego lokalnego repozytorium
 
-pobierania istniejącego repozytorium
+#### pobieranie istniejącego repozytorium
 - [] wejdź na https://github.com/git/git
 - [] pobierz repozytorium przy użyciu plecenia git clone
 - [] sprawdź historie commitów na branchu `master`
