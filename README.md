@@ -5,6 +5,7 @@ Aby pobrać ten projekt za pomocą gitbash lub terminala
 - w terminalu/gitbash-u: wklej `git clone git@github.com:janek109/gitbasic.git` i naciśnij enter
 - w terminalu przejdź do katlogu `gitbasic` i wykonaj polecenie `./pobiez.sh`
 
+Jak możesz zaznaczać czy zrobiłeś ćwiczenie:
 - [] niezrobione ćwiczenie
 - [x] zrobione ćwiczenie można zaznaczyć `x` w []
 
