@@ -72,7 +72,7 @@ Użyj `ls` aby wylistować pliki foldery w folderze `gitbasic_bash`
 - [] w folderze `gitbasic_bash`
 - [] wyświetl zawartość pliku `plik_do_wyswietlenia.txt`
 
-## vim
+### vim
 
 - [] w folderze `gitbasic_bash`
 - [] dopisz do pliku `plik_do_edycji_przez_vim.txt` `Wee udało mi się zacząć edytować plik vimem`
@@ -80,7 +80,7 @@ Użyj `ls` aby wylistować pliki foldery w folderze `gitbasic_bash`
 - [] sprawdź zawartość pliku `plik_do_edycji_przez_vim.txt` bez zmieniania czegokolwiek w nim
 - [] z edytuj plik `plik_do_edycji_przez_vim.txt` dodaj w ostatniej linii `cos czego nie zapisze` i zamknij vim-a bez zapisywania tej zmiany
 
-## strzałki
+### strzałki
 
 - [] w folderze `gitbasic_bash`
 - [] w będąc terminalu(gitbash, terminal) kliknij strzałkę w górę kilka razy, aby zobaczyć ostatnie polecenia.
