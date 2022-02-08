@@ -3,7 +3,7 @@
 Aby pobrać ten projekt za pomocą gitbash lub terminala
 - zainstaluj git-a na swoim systemie - https://git-scm.com/
 - w terminalu/gitbash-u: wklej `git clone git@github.com:janek109/gitbasic.git` i naciśnij enter
-- w terminalu przejdź do katlogu `gitbasic` i wykonaj polecenie `./pobiez.sh`
+- w terminalu przejdź do katlogu `gitbasic` i wykonaj polecenie `./pobierz.sh`
 
 Jak możesz zaznaczać czy zrobiłeś ćwiczenie:
 - [] niezrobione ćwiczenie
